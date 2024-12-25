@@ -3,8 +3,8 @@
 
 
 ## Table of Contents
-* Project Overview
-* Dataset
+* [Project Overview]
+* [Dataset]
 * [Project Pipeline]
 * [Prerequisites]
 * [Results]
